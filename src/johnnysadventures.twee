@@ -1,0 +1,21 @@
+:: StoryData
+{
+    "ifid": "FF2746F0-E03E-4C32-ADFF-873A711512AD",
+    "format": "SugarCube",
+    "format-version": "2.36.1"
+}
+
+:: StoryTitle
+Johnny's Adventures
+
+:: Start
+Johnny is a buisness man from Boca Raton, Fl traveling to Nassau Bahamas for a buisness meeting on his boat and carries a briefcase. Until pirates spotted his boat and stormed it. It is up to Johnny to escape its attacks. 
+
+Johnny must make a plan to call for help 
+His options is radio call for rescue 
+
+:: plan 
+Look for the radio call for distress for rescue 
+
+:: options
+Fight against the pirates 
